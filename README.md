@@ -16,10 +16,12 @@ You have to install circuitpython on your Pico and include the Adafruit_hid libr
 The code isn't amazing but it works.
 
 ## PCB info
+The pico is surface mount to the pcb so i can be challenging to solder on.  
 The PCB is ready to order with the gerber file but i also added the pcb file and the design file.  
 **The Components you will need are.**  
 13 pcb mount Cherry MX switches or another switch that would fit in the Cherry MX Footprint.  
 2 smd 0603 led and 0603 resistor(So you don't burn out the led)(also only the top led is used in my code so you could only get one).  
+And a Raspberry Pi Pico ofcourse.  
 **I personally used.**  
 13 PCB mounted Cherry MX Blue switches.  
 [Blue LED](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.html) - [corresponding resistor](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG03FTC1470_C217738.html).  
