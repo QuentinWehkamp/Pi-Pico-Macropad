@@ -1,4 +1,4 @@
-# Pi-Pico-Marcopad
+# Pi-Pico-Macropad
 (Please read the whole README before doing this project)  
 A Macropad using the Raspberry Pi Pico, programmed with CircuitPython.  
 I have included all the files.  
